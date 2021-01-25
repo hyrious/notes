@@ -1,0 +1,12 @@
+@import "modern-normalize";
+
+code,
+kbd,
+pre,
+samp {
+    font-family: "JetBrains Mono", monospace;
+}
+
+.outline-none {
+    outline: none;
+}

@@ -1,0 +1,19 @@
+{
+    "name": "@hyrious/notes",
+    "version": "0.1.0",
+    "scripts": {
+        "dev": "vite",
+        "clean": "rimraf dist",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "modern-normalize": "^1.0.0",
+        "preact": "^10.5.11",
+        "vue": "^3.0.5"
+    },
+    "devDependencies": {
+        "@prefresh/vite": "^2.0.2",
+        "rimraf": "^3.0.2",
+        "vite": "^2.0.0-beta.48"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "jsx": "react",
+        "jsxFactory": "h",
+        "jsxFragmentFactory": "Fragment",
+        "noEmit": true,
+        "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "esModuleInterop": true,
+        "strict": true,
+        "module": "ESNext",
+        "isolatedModules": true,
+        "resolveJsonModule": true,
+        "moduleResolution": "Node"
+    }
+}
